@@ -1,0 +1,6 @@
+python-dotenv
+requests
+huggingface_hub
+langchain-core
+langchain-community
+duckduckgo-search
